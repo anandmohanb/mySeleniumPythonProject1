@@ -1,0 +1,4 @@
+2022-02-06 17:17:46,172 :INFO : Pytest.test_logging :Information statement
+2022-02-06 17:17:46,172 :WARNING : Pytest.test_logging :Something is in warning mode
+2022-02-06 17:17:46,172 :ERROR : Pytest.test_logging :A Major error has happend
+2022-02-06 17:17:46,172 :CRITICAL : Pytest.test_logging :Critical issue

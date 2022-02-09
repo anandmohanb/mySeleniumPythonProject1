@@ -1,0 +1,20 @@
+2022-01-29 21:53:24,592 :INFO : Pytest.BaseClass :Rahul
+2022-01-29 21:53:24,593 :INFO : Pytest.BaseClass :rahulshettyacademy.com
+2022-01-29 21:53:24,696 :INFO : Pytest.test_logging :Information statement
+2022-01-29 21:53:24,696 :WARNING : Pytest.test_logging :Something is in warning mode
+2022-01-29 21:53:24,696 :ERROR : Pytest.test_logging :A Major error has happend
+2022-01-29 21:53:24,696 :CRITICAL : Pytest.test_logging :Critical issue
+2022-01-29 21:55:21,018 :INFO : Pytest.BaseClass :Rahul
+2022-01-29 21:55:21,019 :INFO : Pytest.BaseClass :rahulshettyacademy.com
+2022-01-29 21:55:21,117 :INFO : Pytest.test_logging :Information statement
+2022-01-29 21:55:21,118 :WARNING : Pytest.test_logging :Something is in warning mode
+2022-01-29 21:55:21,124 :ERROR : Pytest.test_logging :A Major error has happend
+2022-01-29 21:55:21,124 :CRITICAL : Pytest.test_logging :Critical issue
+2022-01-30 16:27:26,589 :INFO : Pytest.BaseClass :Rahul
+2022-01-30 16:27:26,590 :INFO : Pytest.BaseClass :rahulshettyacademy.com
+2022-01-30 16:27:26,699 :INFO : Pytest.BaseClass :this is my info log message
+2022-01-30 16:27:26,699 :INFO : Pytest.BaseClass :this is my info log message
+2022-01-30 16:27:26,701 :INFO : Pytest.test_logging :Information statement
+2022-01-30 16:27:26,701 :WARNING : Pytest.test_logging :Something is in warning mode
+2022-01-30 16:27:26,701 :ERROR : Pytest.test_logging :A Major error has happend
+2022-01-30 16:27:26,701 :CRITICAL : Pytest.test_logging :Critical issue
